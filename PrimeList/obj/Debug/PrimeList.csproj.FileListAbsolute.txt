@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\PrimeList\PrimeList\bin\Debug\PrimeList.exe.config
+C:\Users\user\source\repos\PrimeList\PrimeList\bin\Debug\PrimeList.exe
+C:\Users\user\source\repos\PrimeList\PrimeList\bin\Debug\PrimeList.pdb
+C:\Users\user\source\repos\PrimeList\PrimeList\obj\Debug\PrimeList.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PrimeList\PrimeList\obj\Debug\PrimeList.exe
+C:\Users\user\source\repos\PrimeList\PrimeList\obj\Debug\PrimeList.pdb
